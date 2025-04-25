@@ -4,11 +4,9 @@ This project is a full-stack experiment in processor design — from a Python-ba
 Project Structure
 .
 ├── interpreter/     # Python-based CPU simulation
-│   └── cpu.py       # Executes MOV, ADD, SUB, JMP, CMP, HLT on virtual memory
-│
+│   └── cpu.py       # Executes MOV, ADD, SUB, JMP, CMP, HLT on virtualmemory
 ├── hardware/        # Verilog-based CPU module
 │   └── cpu.v        # 4-stage pipeline with 19-bit custom instruction format
-│
 ├── README.md        # This file
 Features
 Interpreter
