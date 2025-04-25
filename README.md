@@ -1,4 +1,4 @@
-Custom 8-bit CPU System (Interpreter + Verilog Core)
+itCustom 8-bit CPU System (Interpreter + Verilog Core)
 This project is a full-stack experiment in processor design — from a Python-based virtual CPU interpreter to a Verilog implementation of a pipelined RISC-like CPU. It's built from scratch with minimal abstraction, focusing on how instruction sets, registers, memory, and control logic really work.
 
 Project Structure
